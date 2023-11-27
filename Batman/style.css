@@ -1,0 +1,160 @@
+li{
+	list-style: none;
+	display: inline;
+	padding: 40px;
+}
+ul .logo a{
+		background-image: url("logo.png");
+		background-size: 170px;
+		height: 100px;
+		width: 170px;
+		top: -4px;
+		left: -50px;
+		background-repeat: no-repeat;
+		display: inline-block;
+		position: relative;
+}
+input {
+	position: relative;
+	font-style: italic;
+	height: 40px;
+	width: 350px;
+	left: -100px;
+	top: -52px;
+	border-radius: 12px;
+}
+ul .app a{
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	position: relative;
+	top: -50px;
+	left: -40;
+	font-style: italic;
+}
+ul .supply a{
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	position: relative;
+	top: -50px;
+	left: -90;
+	font-style: italic;
+
+}
+select{
+	position: relative;
+	height: 30px;
+	background-color: yellow;
+	border: transparent;
+	left: 1045px;
+	top: -89px;
+	color: black;
+	font-size: 25px;
+	font-style: italic;
+	 font-family: "Times New Roman", Times, serif;
+	-webkit-appearance: none;
+}
+ul .cart a{
+	color: black;
+	font-style: italic;
+	text-decoration: none;
+	font-size: 25px;
+	position: relative;
+	top: -87px;
+	left: 975px;
+}
+.top{
+	height: 85px;
+	background-color:yellow;
+
+}
+.mid{
+	height: 30px;
+	width: 1335px;
+	top: -50px;
+	background-color: yellow;
+}
+.bot{
+	height: 90px;
+	width: 1335px;
+	background-color: yellow;
+}
+option{
+	background-color: black;
+	color:yellow;
+}
+body{
+	background-color: black;
+}
+ul .second a{
+	padding: 40px;
+}
+ul .shirt a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}
+ul .tshirt a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}ul .pant a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}ul .jog a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}ul .track a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}ul .short a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: 0px;
+	left: -50;
+	font-style: italic;
+
+}ul .shoe a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 34px;
+	position: relative;
+	top: -40px;
+	left: 1148;
+	font-style: italic;
+
+}
+img{
+	height: 350px;
+}
